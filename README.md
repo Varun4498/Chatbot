@@ -89,7 +89,7 @@ pip3 install streamlit
 > streamlit run healthbot.py 
 
 ---
-This project is also published in Springer(https://link.springer.com/chapter/10.1007%2F978-981-16-3961-6_8) 
+This [project](https://link.springer.com/chapter/10.1007%2F978-981-16-3961-6_8)is also published in Springer 
 
 
 
