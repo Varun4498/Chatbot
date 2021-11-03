@@ -11,7 +11,7 @@ This is a Disease Recommender System that I have created with the minimalist dat
 ---
 ## Getting Started
 
-1. Fork [this](https://github.com/himaniaggarwal2/disease-recommender.git) repository.
+1. Fork [this](https://github.com/Varun4498/Chatbot.git) repository.
 2. Clone this forked repository in your local system by the following commands:
 > git clone https://github.com/__your-github-username__/disease-recommender.git
 
@@ -89,11 +89,11 @@ pip3 install streamlit
 > streamlit run healthbot.py 
 
 ---
-This project took a lot of hardwork so do give it a star and fork it in your system to know more about it ;)
+This project is also published in Springer(https://link.springer.com/chapter/10.1007%2F978-981-16-3961-6_8) 
 
 
 
-[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.linkedin.com/in/himaniaggarwal2/) [![smile please](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/himaniaggarwal2/)
+[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](linkedin.com/in/varun-bahuguna-228411179) [![smile please](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/Varun4498)
 
 
 
